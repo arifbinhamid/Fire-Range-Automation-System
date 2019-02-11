@@ -1,0 +1,9 @@
+c:\users\arif\documents\visual studio 2013\Projects\Fire Range Automation System\Fire Range Automation System\bin\Debug\Fire Range Automation System.exe.config
+c:\users\arif\documents\visual studio 2013\Projects\Fire Range Automation System\Fire Range Automation System\obj\Debug\Fire Range Automation System.csprojResolveAssemblyReference.cache
+c:\users\arif\documents\visual studio 2013\Projects\Fire Range Automation System\Fire Range Automation System\obj\Debug\Fire_Range_Automation_System.Form1.resources
+c:\users\arif\documents\visual studio 2013\Projects\Fire Range Automation System\Fire Range Automation System\obj\Debug\Fire_Range_Automation_System.Properties.Resources.resources
+c:\users\arif\documents\visual studio 2013\Projects\Fire Range Automation System\Fire Range Automation System\obj\Debug\Fire Range Automation System.csproj.GenerateResource.Cache
+c:\users\arif\documents\visual studio 2013\Projects\Fire Range Automation System\Fire Range Automation System\bin\Debug\Fire Range Automation System.exe
+c:\users\arif\documents\visual studio 2013\Projects\Fire Range Automation System\Fire Range Automation System\bin\Debug\Fire Range Automation System.pdb
+c:\users\arif\documents\visual studio 2013\Projects\Fire Range Automation System\Fire Range Automation System\obj\Debug\Fire Range Automation System.exe
+c:\users\arif\documents\visual studio 2013\Projects\Fire Range Automation System\Fire Range Automation System\obj\Debug\Fire Range Automation System.pdb
